@@ -46,4 +46,14 @@ $ (window).on('scroll', function(){
         $('.preloader').delay(1500).fadeOut(500);
     });
 
+
+    //counter up
+
+    $('.counter').counterUp({
+        delay: 10,
+        time: 1000
+    });
+
+
+
 });

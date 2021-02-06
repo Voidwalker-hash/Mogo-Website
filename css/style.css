@@ -608,6 +608,11 @@ button:focus,input:focus,textarea:focus{
     -ms-transform: translateY(-50%);
     -o-transform: translateY(-50%);
 }
+.border img {
+    border: 6px solid #95e1d3;
+    padding: 30px;
+}
+
 /* testimonials section ends */
 
 
