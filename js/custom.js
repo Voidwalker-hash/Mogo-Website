@@ -50,7 +50,7 @@ $ (window).on('scroll', function(){
     //counter up
 
     $('.counter').counterUp({
-        delay: 10,
+        delay: 20,
         time: 1000
     });
 

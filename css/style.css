@@ -51,16 +51,16 @@ li,ol{
 .back-to-top i{
     width: 40px;
     height: 40px;
-    background-color: #0bbdf6;
+    background-color: #FE89F3;
     color: #000000;
     font-size: 40px;
     line-height: 40px;
     text-align: center;
-    border-radius: 50%;
-    -webkit-border-radius: 50%;
-    -moz-border-radius: 50%;
-    -ms-border-radius: 50%;
-    -o-border-radius: 50%;
+    border-radius: 20%;
+    -webkit-border-radius: 20%;
+    -moz-border-radius: 20%;
+    -ms-border-radius: 20%;
+    -o-border-radius: 20%;
 }
 
 
@@ -176,7 +176,7 @@ button:focus,input:focus,textarea:focus{
 
 
 .bg{
-    background: red;
+    background: purple;
     animation: bg 1s;
 }
 
@@ -832,7 +832,7 @@ button:focus,input:focus,textarea:focus{
 #footer_sec .about_part .follow_us{
     display: flex;
     justify-content: flex-start;
-    padding-top: 18px;
+    padding-top: 6px;
 }
 #footer_sec .about_part .follow_us h6{
     font-family: var(--fontFamilyRoboto);
@@ -971,6 +971,6 @@ button:focus,input:focus,textarea:focus{
 
 
 .follow_us {
-	width: 107%;
+	width: 100%;
 }
 /* footer section ends */
